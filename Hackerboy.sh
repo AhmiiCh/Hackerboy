@@ -43,7 +43,7 @@ echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" A"$i" |
 echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" H"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" M"$i" |"
 echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" I"$i" |"
-echo $i"|"$me"19"$i" |"$cy" AHMII/EXIT PROGRAM      "$i"|"$i"    |"$cy" I"$i" |"
+echo $i"|"$me"19"$i" |"$cy" AHMII/EXIT PROGRAM      "$i"|"$i"    |"$cy" I"$i"  |"
 echo $i"────────────────────────────────    ─────"
 echo
 echo $me"┌==="$bi"["$i"Ahmii Ch"$bi"]"$me"======"$bi"["$i"Baba-Gangster"$bi"]"
@@ -250,12 +250,12 @@ then
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
-echo2$cy"░█████╗░██╗░░██╗███╗░░░███╗██╗██╗"
-echo2$cy"██╔══██╗██║░░██║████╗░████║██║██║"
-echo2$cy"███████║███████║██╔████╔██║██║██║"
-echo2$cy"██╔══██║██╔══██║██║╚██╔╝██║██║██║"
-echo2$cy"██║░░██║██║░░██║██║░╚═╝░██║██║██║" 
-echo2$cy"╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝╚═╝"
+echo$cy"░█████╗░██╗░░██╗███╗░░░███╗██╗██╗"
+echo$cy"██╔══██╗██║░░██║████╗░████║██║██║"
+echo$cy"███████║███████║██╔████╔██║██║██║"
+echo$cy"██╔══██║██╔══██║██║╚██╔╝██║██║██║"
+echo$cy"██║░░██║██║░░██║██║░╚═╝░██║██║██║" 
+echo$cy"╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝╚═╝"
 sleep 2u
 echo $cy"Baba-Gangster"
 sleep 2
